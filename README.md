@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and frameworks.**
 
-- 👨‍💻 All of my projects are available here: in at [https://github.com/VUPPALA-AKSHAY/Projects/tree/b69fcd68eb92bfed308ca2d0157ed2800394a045/AMAZON%20%20CLONE%20PROJECT](https://github.com/VUPPALA-AKSHAY/Projects/tree/b69fcd68eb92bfed308ca2d0157ed2800394a045/AMAZON%20%20CLONE%20PROJECT)
+- 👨‍💻 All of my projects are available here: in at [https://github.com/VUPPALA-AKSHAY/Projects/tree/b69fcd68eb92bfed308ca2d0157ed2800394a045/AMAZON%20%20CLONE%20PROJECT]([https://github.com/VUPPALA-AKSHAY/Projects/tree/b69fcd68eb92bfed308ca2d0157ed2800394a045/AMAZON%20%20CLONE%20PROJECT](https://github.com/VUPPALA-AKSHAY/Projects/tree/d8ced82e0c802c80f53d00d9d8ee87786948a4e9/AMAZON%20%20CLONE%20PROJECT))
 
 - 📫 How to reach me **akshay.dunny08@gmail.com**
 
